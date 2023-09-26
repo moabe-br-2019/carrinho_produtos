@@ -1,0 +1,17 @@
+{
+  "produtos": [
+    {
+      "nome": "Pão integral",
+      "qtd": 1,
+      "preço": 8,
+      "complemento": [
+        {
+          "nome": "cobertura extra",
+          "preco": 1,
+          "quantidade": 1,
+          "produto": "Brownie de Chocolate"
+        }
+      ]
+    }
+  ]
+}
